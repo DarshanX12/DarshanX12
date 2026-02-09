@@ -3,11 +3,11 @@
 
 <img src="kyubey.gif" width="90" height="45"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=1&pause=1000&color=F78249&background=FF315400&repeat=false&width=250&lines=Myself+Gourav+Yadav%2C)](https://git.io/typing-svg) [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=09D0F7&background=FF315400&width=435&lines=Hello+there+%F0%9F%91%8B+%2C;A+Full+Stack+Developer;A+Software+Engineer;and+A+AI%26ML+Enthusiast;With+a+Passion+of+coding.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=1&pause=1000&color=F78249&background=FF315400&repeat=false&width=250&lines=Myself+Darshan+Kumawat%2C)](https://git.io/typing-svg) [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=09D0F7&background=FF315400&width=435&lines=Hello+there+%F0%9F%91%8B+%2C;A+Full+Stack+Developer;A+Software+Engineer;and+A+AI%26ML+Enthusiast;With+a+Passion+of+coding.)](https://git.io/typing-svg)
 
 <a href="https://www.linkedin.com/in/darshan-kumawat-685549251"><img src="assets/linkedin.svg" alt="LinkedIn" width="30" height="auto"></a>    <a href="https://leetcode.com/u/Darshan_Kumawat12/"><img src="assets/leetcode.svg" alt="LeetCode" width="30" height="auto"></a>  
 ---
-![Profile Views](https://komarev.com/ghpvc/?username=Gauravdevlo&label=visitors&color=blue&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=DarshanX12&label=visitors&color=blue&style=flat)
 
 + 🚀 Aspiring Full-Stack & ML Engineer | Open-Source Contributor
 + 🎓 Final-Year CSE Student | VIT Bhopal
