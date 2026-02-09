@@ -1,8 +1,6 @@
 <img src="https://github.com/ParasAnxi/ParasAnxi/raw/main/gitP.png" width="100%" />
 
-<p align="center">
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="120"/>
-</p>
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&width=500&lines=Myself+Darshan+Kumawat;Software+Engineer+%7C+AI%2FML+Enthusiast;Passionate+about+Coding)](https://git.io/typing-svg)
 
