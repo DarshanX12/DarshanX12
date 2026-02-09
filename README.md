@@ -34,9 +34,14 @@
 
 ## 📊 GitHub Stats
 
-![Darshan Stats](https://github-readme-stats.vercel.app/api?username=DarshanX12&show_icons=true&theme=transparent)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=1&pause=1000&color=F76044&repeat=false&width=435&lines=%F0%9F%93%8A+GitHub+Stats)](https://git.io/typing-svg)
+| 🔥 Streak Stats  | 💻 GitHub Profile Stats |
+|------------------|-----------------------|
+| ![GitHub Streak](https://img.shields.io/badge/GitHub-Streak-orange?style=for-the-badge) | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gauravdevlo&show_icons=true&theme=transparent&hide_border=true&title_color=F78104&icon_color=F78104&text_color=CFCFCF&ring_color=F78104)|
+| ![Most Used](https://img.shields.io/badge/Most-Used-orange?style=for-the-badge)| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gauravdevlo&layout=compact&theme=transparent&hide_border=true&title_color=F78104&text_color=CFCFCF)](https://github.com/anuraghazra/github-readme-stats)
+<hr>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarshanX12&layout=compact&theme=transparent)
+<p align="left"><img src="kyubey.gif" width="90" height="45"/><strong style="color:purple; font-size: 24px;">  </strong></p> 
 
 ---
 
