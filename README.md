@@ -3,7 +3,7 @@
 
 <img src="kyubey.gif" width="90" height="45"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=1&pause=1000&color=F78249&background=FF315400&repeat=false&width=250&lines=Myself+Darshan+Kumawat%2C)](https://git.io/typing-svg) [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=09D0F7&background=FF315400&width=435&lines=Hello+there+%F0%9F%91%8B+%2C;A+Full+Stack+Developer;A+Software+Engineer;and+A+AI%26ML+Enthusiast;With+a+Passion+of+coding.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=1&pause=1000&color=F78249&background=FF315400&repeat=false&width=250&lines=Myself+Darshan+Kumawat%2C)](https://git.io/typing-svg) [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=A+Software+Engineer;and+A+AI%26ML+Enthusiast;with+a+Passion+of+Coding)](https://git.io/typing-svg)
 
 <a href="https://www.linkedin.com/in/darshan-kumawat-685549251"><img src="assets/linkedin.svg" alt="LinkedIn" width="30" height="auto"></a>    <a href="https://leetcode.com/u/Darshan_Kumawat12/"><img src="assets/leetcode.svg" alt="LeetCode" width="30" height="auto"></a>  
 ---
